@@ -1,0 +1,25 @@
+--Utilizando Json server
+
+npm i json-server -D
+
+criar arquivo na raiz do projeto "server.json" e rodar o comando abaixo
+
+npx json-server server.json -p 3333
+
+npx json-server server.json -p 3333 -w   ///modo watch
+
+npx json-server server.json -p 3333 -w -d 750 //Features de delay adicionar delay de 750ms
+
+
+exemplo: 
+
+        server.json
+
+        {
+        "transactions": []
+        }
+
+        rota HTTp: 
+            http://localhost:3333/transactions
+
+

@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "App Kema turismo",
+      "type": "income",
+      "category": "venda",
+      "price": 10000,
+      "createdAt": "2022-12-18T02:52:41.101Z"
+    },
+    {
+      "id": 2,
+      "description": "Humburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-18T01:51:41.101Z"
+    },
+    {
+      "id": 3,
+      "description": "Bebida",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 10,
+      "createdAt": "2023-01-13T01:51:41.101Z"
+    },
+    {
+      "id": 4,
+      "description": "Churrasco",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 65,
+      "createdAt": "2023-01-13T01:51:41.101Z"
+    },
+    {
+      "id": 5,
+      "description": "Cerveja",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 64,
+      "createdAt": "2023-01-12T01:51:41.101Z"
+    },
+    {
+      "id": 6,
+      "description": "App Alugueis",
+      "type": "income",
+      "category": "venda",
+      "price": 13000,
+      "createdAt": "2022-12-18T02:52:41.101Z"
+    },
+    {
+      "description": "pizza",
+      "category": "Alimentação",
+      "price": 79,
+      "type": "outcome",
+      "createdAt": "2023-01-13T19:44:41.394Z",
+      "id": 7
+    },
+    {
+      "description": "carne",
+      "category": "Alimentação",
+      "price": 250,
+      "type": "outcome",
+      "createdAt": "2023-01-13T20:00:07.541Z",
+      "id": 8
+    }
+  ]
+}
